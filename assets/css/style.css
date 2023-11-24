@@ -461,7 +461,7 @@ td, th {
 }
 
 .inner-circle-image {
-    background-image: url("/assets/images/hero-image.jpg");
+    background-image: url("/assets/images/hero-image.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;

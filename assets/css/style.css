@@ -3,6 +3,7 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     font-family: sans-serif;
+    height: 100%;
 }
 
 body {
@@ -461,7 +462,7 @@ td, th {
 }
 
 .inner-circle-image {
-    background-image: url("/assets/images/hero-image.png");
+    background-image: url("/assets/icons/android-favicon.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
